@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.DS_Store
+*.mp4
+*.mov
+*.zip
+assets/vids/
+Old_Site/
